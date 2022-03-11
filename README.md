@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robbie and recenty joined Microsoft
+- 👋 Hi, I’m Robbie and I work at Microsoft
 
 <!---
 Robbie-Microsoft/Robbie-Microsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
